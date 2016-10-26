@@ -1,4 +1,15 @@
+
 *{
   margin: 0;
   padding: 0;
+}
+
+.main_nav{
+  float: right;
+}
+
+.nav{
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15px;
 }
