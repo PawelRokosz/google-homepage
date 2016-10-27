@@ -52,7 +52,7 @@ a{
 }
 
 .right .left{
-  display:inline-block;
+  display: inline-block;
 }
 
 .right{
@@ -61,4 +61,19 @@ a{
 
 .left{
   float:left;
+}
+
+.right_a{
+  margin-right: 15px;
+  vertical-align: middle;
+}
+
+.left_a{
+  margin-left: 15px;
+  vertical-align: middle;
+}
+
+.left_a:hover, .right_a:hover{
+  opacity: 0.85;
+  text-decoration: underline;
 }
