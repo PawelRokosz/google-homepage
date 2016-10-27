@@ -50,3 +50,15 @@ a{
   position: absolute;
   bottom: 0;
 }
+
+.right .left{
+  display:inline-block;
+}
+
+.right{
+  float: right;
+}
+
+.left{
+  float:left;
+}
