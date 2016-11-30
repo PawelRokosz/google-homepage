@@ -65,12 +65,14 @@ a{
 
 .right_a{
   margin-right: 15px;
-  vertical-align: middle;
+  padding-top: 7px;
+  display: inline-block;
 }
 
 .left_a{
   margin-left: 15px;
-  vertical-align: middle;
+  padding-top: 7px;
+  display: inline-block;
 }
 
 .left_a:hover, .right_a:hover{
